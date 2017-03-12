@@ -1,4 +1,4 @@
-# LowPolyShaders
+# Low Poly Shaders
 Shaders optimized for Low Poly models.
 These are simple shaders which need less draw calls than the default shaders.
 
