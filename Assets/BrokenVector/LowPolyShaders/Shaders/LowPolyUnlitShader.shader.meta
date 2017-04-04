@@ -1,5 +1,10 @@
 fileFormatVersion: 2
 guid: 098d4ffc7d7b82d4db28426a03a46477
+labels:
+- Unlit
+- shader
+- Material
+- LowPoly
 timeCreated: 1489240511
 licenseType: Free
 ShaderImporter:
