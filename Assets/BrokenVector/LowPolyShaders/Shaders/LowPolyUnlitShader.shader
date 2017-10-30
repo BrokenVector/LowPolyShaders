@@ -8,7 +8,7 @@
 		LOD 200
 		
 		CGPROGRAM
-		#pragma surface surf Unlit vertex:vert noforwardadd
+		#pragma surface surf Unlit vertex:vert noforwardadd novertexlights
 
 		// Use shader model 3.0 target, to get nicer looking lighting
 		#pragma target 3.0
